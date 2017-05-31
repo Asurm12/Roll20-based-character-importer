@@ -1,0 +1,2 @@
+# Roll20-based-character-importer
+Goal of the project is to create a universal tool to import characters (PC,NPC,monsters) to roll20. The tool consists of a general converter (JSON/XML to a roll20 character) and a collection of plugins based on the ruleset currently used, and more specifically, the character sheet template. Until there is a dedicated importing tool for roll20, the importer will use workarounds to import characters (a user will have to create a character sheet beforehand).
